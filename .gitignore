@@ -1,0 +1,4 @@
+*.o
+*.ppu
+conservation
+test
