@@ -100,3 +100,5 @@ This is what happens when a language designed for _teaching_ meets a real algori
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
